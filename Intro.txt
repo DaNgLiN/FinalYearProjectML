@@ -9,7 +9,7 @@ Project Title:Not yet Decided
 
 Project Duration:8 Month
 
-Everone need to clone this repo and make your own bracnch where you comit 
+Everyone need to clone this repo and make your own bracnch where you comit 
 At the end of the day we merge those branch with master branch
 Everone gone give there 100% . Togethere we Can
 
