@@ -1,0 +1,16 @@
+Our Team Member
+      Udaya Adhakari
+      Aashish Rana Magar
+      Gunjan Chimariya
+      Aashique Karan
+     
+Project Domain:Machine Learning
+Project Title:Not yet Decided
+
+Project Duration:8 Month
+
+Everone need to clone this repo and make your own bracnch where you comit 
+At the end of the day we merge those branch with master branch
+Everone gone give there 100% . Togethere we Can
+
+lets build this 
