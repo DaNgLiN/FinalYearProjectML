@@ -1,0 +1,219 @@
+{
+    "dirname": "./random_files_to_search/",
+    "./random_files_to_search/model100.txt": {
+        "wordcount": 464,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/tr_shoot.txt": {
+        "wordcount": 2587,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/scolicen.txt": {
+        "wordcount": 3134,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/zmodem6.txt": {
+        "wordcount": 15137,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/rbrown.txt": {
+        "wordcount": 3608,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/zappvowl.txt": {
+        "wordcount": 395,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/t102.txt": {
+        "wordcount": 2286,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/sort.txt": {
+        "wordcount": 1746,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/tricks65.txt": {
+        "wordcount": 2373,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/music.txt": {
+        "wordcount": 1834,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/rpn.txt": {
+        "wordcount": 1437,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/matrix.txt": {
+        "wordcount": 1738,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/natural.txt": {
+        "wordcount": 2497,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/more65.txt": {
+        "wordcount": 2994,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/sbuf_faq.txt": {
+        "wordcount": 4846,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/xmodem.txt": {
+        "wordcount": 1296,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/ymodem.txt": {
+        "wordcount": 7480,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/triangle.txt": {
+        "wordcount": 1430,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/pcpxfer.txt": {
+        "wordcount": 2122,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/stips.txt": {
+        "wordcount": 1475,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/opcod6502.txt": {
+        "wordcount": 2264,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/srbediff.txt": {
+        "wordcount": 833,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/softice.manual.txt": {
+        "wordcount": 41912,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/modem.txt": {
+        "wordcount": 246,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/memchip.txt": {
+        "wordcount": 1816,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/paper.txt": {
+        "wordcount": 1368,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/shell_history.txt": {
+        "wordcount": 2425,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/zen_life.txt": {
+        "wordcount": 19050,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/qikstart.txt": {
+        "wordcount": 2395,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/qwk.txt": {
+        "wordcount": 6267,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/qwk_15.txt": {
+        "wordcount": 7666,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/m200tran.txt": {
+        "wordcount": 3265,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/svgatrix.txt": {
+        "wordcount": 4191,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/shrware.txt": {
+        "wordcount": 774,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/vrfirm.txt": {
+        "wordcount": 1247,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/zipwarn.txt": {
+        "wordcount": 571,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/metadata.txt": {
+        "wordcount": 473,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/pcgpe10.txt": {
+        "wordcount": 280194,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/msdos.txt": {
+        "wordcount": 1316,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/tpudoc1.txt": {
+        "wordcount": 13528,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/noise.txt": {
+        "wordcount": 1156,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/q88164.txt": {
+        "wordcount": 944,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/xit.txt": {
+        "wordcount": 1030,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/signsyst.txt": {
+        "wordcount": 337,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/undocbas.txt": {
+        "wordcount": 381,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/nbuf.txt": {
+        "wordcount": 3041,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/optimize.txt": {
+        "wordcount": 6896,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/peekpoke.txt": {
+        "wordcount": 4636,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/random.txt": {
+        "wordcount": 14343,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/start65.txt": {
+        "wordcount": 2460,
+        "lastmodtime": "Mon May 14 15:52:22 2018"
+    },
+    "./random_files_to_search/sambhram.txt": {
+        "wordcount": 1378,
+        "lastmodtime": "Tue Apr 21 13:43:46 2020"
+    },
+    "./random_files_to_search/facilities.txt": {
+        "wordcount": 284,
+        "lastmodtime": "Tue Apr 21 13:45:25 2020"
+    },
+    "./random_files_to_search/rules(sait).txt": {
+        "wordcount": 1068,
+        "lastmodtime": "Tue Apr 21 13:46:06 2020"
+    },
+    "./random_files_to_search/cse.txt": {
+        "wordcount": 747,
+        "lastmodtime": "Tue Apr 21 13:47:15 2020"
+    }
+}

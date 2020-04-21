@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+</head>
+
+<body>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .outer {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        input[type=text] {
+            margin: 10px 0px;
+            padding: 20px 10px;
+            border-radius: 10px;
+            outline: thick;
+            font-size: 20px;
+            border: 1px solid;
+            width: 500px;
+            transition: 1s;
+        }
+
+        /* input[type=text]:focus{
+            transform-origin: center;
+            width: 500px;
+            transition: .5s;
+        } */
+        input[type=submit] {
+            padding: 10px;
+            background-color: rgb(95, 253, 95);
+            color: black;
+
+        }
+
+        .infoR {
+            margin: 50px;
+            padding: 10px 30px;
+        }
+
+        .querybox-outer {
+            margin-bottom: 200px;
+            
+        }
+
+       
+    </style>
+    <div class="outer">
+        <h2 class="infoR teal lighten-1 white-text"><b>Information Retrival</b></h2>
+        <form action="http://localhost:5000/search" method="post">
+            <div class="querybox-outer">
+                <div class="input-field querybox">
+                    <i class="material-icons prefix">search</i>
+                    <input id="input_text" class="" type="text" name='nm' autocomplete="off"
+                        placeholder="Type query here .. ." data-length="20" style="width: 500px;">
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
+<!-- Jquery -->
+<script src="https://code.jquery.com/jquery-3.5.0.js" integrity="sha256-r/AaFHrszJtwpe+tHyNi/XCfMxYpbsRg2Uqn0x3s2zc="
+    crossorigin="anonymous"></script>
+<!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('input#input_text, textarea#textarea2').characterCounter();
+    });
+
+</script>
